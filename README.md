@@ -6,10 +6,12 @@ A beautiful 3D perspective wheel selector for iOS, ported from the Android libra
 ![Language](https://img.shields.io/badge/language-C%23-green)
 ![Framework](https://img.shields.io/badge/framework-.NET%2010.0--ios-purple)
  
-<p align="center">
-  <img src="https://github.com/Polyariz/HorizontalWheelView.iOS/blob/main/screenshots/1.png?raw=true" width="300">
-  <img src="https://github.com/Polyariz/HorizontalWheelView.iOS/blob/main/screenshots/2.png?raw=true" width="300">
-</p>
+ ![alt text](https://github.com/Polyariz/HorizontalWheelView.iOS/blob/main/screenshots/0.jpg?raw=true)
+ 
+# <p align="center">
+  # <img src="https://github.com/Polyariz/HorizontalWheelView.iOS/blob/main/screenshots/1.png?raw=true" width="300">
+  # <img src="https://github.com/Polyariz/HorizontalWheelView.iOS/blob/main/screenshots/2.png?raw=true" width="300">
+# </p>
 
 ## Features
 
