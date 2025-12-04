@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="HorizontalWheelView.Library.iOS/HorizontalWheelView.Library.iOS.csproj" />
+  <Project Path="HorizontalWheelView.Sample.iOS/HorizontalWheelView.Sample.iOS.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project> 
+</Solution>

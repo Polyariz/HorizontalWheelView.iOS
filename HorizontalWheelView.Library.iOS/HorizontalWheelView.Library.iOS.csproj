@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0-ios</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>false</ImplicitUsings>
+    <RootNamespace>Polyariz.iOS.Shchurov.HorizontalWheelView</RootNamespace>
+    <AssemblyName>Polyariz.iOS.Shchurov.HorizontalWheelView</AssemblyName>
+    <SupportedOSPlatformVersion>15.0</SupportedOSPlatformVersion>
+    <IsTrimmable>true</IsTrimmable>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <Authors>Polyariz, Based on Android library by Shchurov</Authors>
+    <Description>iOS port of HorizontalWheelView - A 3D perspective wheel view with active range coloring for iOS</Description>
+    <PackageProjectUrl>https://github.com/yourusername/HorizontalWheelView-iOS</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/yourusername/HorizontalWheelView-iOS</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+</Project>
